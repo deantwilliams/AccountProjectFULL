@@ -1,5 +1,5 @@
 # Project Setup
-Download project and run the following at project folder level (/account)
+Download project and run the following at project root level
 ```
 mvn clean install
 ```
