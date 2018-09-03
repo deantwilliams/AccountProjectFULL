@@ -15,3 +15,10 @@ npm run dev
 ## Viewed on
 http://localhost:8080 or http://localhost:8081 for website (changes randomly)
 http://localhost:8088 for api
+
+
+## NOTE
+If using Google Chrome, it is required that you disable web security by going to the location of Chrome and running the following in command prompt:
+```
+chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security
+```
