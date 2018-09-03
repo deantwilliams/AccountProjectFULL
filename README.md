@@ -13,5 +13,5 @@ npm run dev
 ```
 
 ## Viewed on
-http://localhost:8081 for website
+http://localhost:8080 or http://localhost:8081 for website (changes randomly)
 http://localhost:8088 for api
